@@ -4,7 +4,7 @@
     "version": "1.0.0",
     "issue_tracker": "https://github.com/gh0stblizz4rd/ha-switch-timer/issues",
     "documentation": "https://github.com/gh0stblizz4rd/ha-switch-timer",
-    "codeowners": "@gh0stblizz4rd",
+    "codeowners": ["@gh0stblizz4rd"],
     "integration_type": "service",
     "config_flow": true
 }
