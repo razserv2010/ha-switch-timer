@@ -1,0 +1,39 @@
+set_timer:
+  description: "Set timer for a switch entity"
+  fields:
+    entity_id:
+      name: "Timer entity"
+      description: "Entity to set the timer for"
+      required: true
+      selector:
+        entity:
+          domain: "switch_timer"
+    action:
+      name: "Action"
+      description: "Action for the timer"
+      required: true
+      selector:
+        select:
+          options:
+            - Turn on
+            - Turn off
+            - Toggle
+          default: "Turn on"
+    duration:
+      name: "Timer duration"
+      description: "For example for one minute enter: '00:01:00'"
+      required: true
+      selector:
+        text:
+          default: "00:01:00"
+
+cancel_timer:
+  description: "Cancel running timer"
+  fields:
+    entity_id:
+      name: "Timer entity"
+      description: "Timer entity to cancel"
+      required: true
+      selector:
+        entity:
+          domain: "switch_timer"
