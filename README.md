@@ -88,4 +88,4 @@ In order to easily set timers for devices straight from the dashboard, I've crea
 * Save timer states upon a restart
 
 ## Issues & support
-If you encounter any problems while using the integration, feel free to contact me by email romansa772@aol.com or open an issue in this repository. If you wish to support my work you can make a donation [here](https://paypal.me/romansaudzeris?country.x=LV&locale.x=en_US) or just give this repo a start.
+If you encounter any problems while using the integration, feel free to contact me by email romansa772@aol.com or open an issue in this repository. If you wish to support my work you can make a donation [here](https://paypal.me/romansaudzeris?country.x=LV&locale.x=en_US) or just give this repo a star.
