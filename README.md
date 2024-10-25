@@ -7,8 +7,7 @@ A home assistant integration for controlling switch entites by using a timer. Ea
 ### Using [HACS](https://hacs.xyz)
 1. Go to the main screen of HACS and select the custom repository option in the top right conner
 	<p>
-	    <img src="https://i.imgur.com/HKS3sNr.png
-	" width="500px"/>
+	    <img src="https://i.imgur.com/HKS3sNr.png" width="500px"/>
 	</p>
 2. Enter the URL of this repository, select type as integration and click add
 	<p>
