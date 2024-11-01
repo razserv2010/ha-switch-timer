@@ -2,10 +2,10 @@
     "domain": "switch_timer",
     "name": "Switch timer",
     "version": "1.0.0",
-    "issue_tracker": "https://github.com/gh0stblizz4rd/ha-switch-timer/issues",
-    "documentation": "https://github.com/gh0stblizz4rd/ha-switch-timer",
     "codeowners": ["@gh0stblizz4rd"],
-    "iot_class": "local_push",
+    "config_flow": true,
+    "documentation": "https://github.com/gh0stblizz4rd/ha-switch-timer",
     "integration_type": "service",
-    "config_flow": true
+    "iot_class": "local_push",
+    "issue_tracker": "https://github.com/gh0stblizz4rd/ha-switch-timer/issues"
 }

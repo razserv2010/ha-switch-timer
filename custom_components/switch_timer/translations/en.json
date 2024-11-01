@@ -1,0 +1,13 @@
+{
+    "services": {
+      "set_timer": {
+        "name": "Set Timer",
+        "description": "Set a timer for a switch entity"
+      },
+      "cancel_timer": {
+        "name": "Cancel Timer",
+        "description": "Cancel the running timer"
+      }
+    }
+  }
+  
