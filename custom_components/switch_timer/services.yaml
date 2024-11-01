@@ -18,14 +18,12 @@ set_timer:
             - Turn on
             - Turn off
             - Toggle
-          default: "Turn on"
     duration:
       name: "Timer duration"
-      description: "For example for one minute enter: '00:01:00'"
+      description: "For example, for one minute enter: '00:01:00'"
       required: true
       selector:
-        text:
-          default: "00:01:00"
+        text: {}
 
 cancel_timer:
   description: "Cancel running timer"
