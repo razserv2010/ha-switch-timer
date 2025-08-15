@@ -1,7 +1,7 @@
 {
     "domain": "switch_timer",
     "name": "Switch timer",
-    "codeowners": ["@gh0stblizz4rd"],
+    "codeowners": ["raz_fork_of_@gh0stblizz4rd"],
     "config_flow": true,
     "documentation": "https://github.com/gh0stblizz4rd/ha-switch-timer",
     "integration_type": "service",
